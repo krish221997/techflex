@@ -23,7 +23,7 @@ export class SecondPage {
     // Azure Face API endpoint (West-Central US Server)
     public AZURE_ENDPOINT:string = "https://westcentralus.api.cognitive.microsoft.com/face/v1.0";
     // Azure Face API key
-    public AZURE_API_KEY:string = "611a93560e384e028c95b76dbcbf1dff";
+    public AZURE_API_KEY:string = "YOUR KEY";
 
     // Global image that is encoded as a Base64 string
     public image:string;
